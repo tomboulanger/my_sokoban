@@ -1,3 +1,4 @@
+MARK 18/20
 # my_sokoban
 ![sokoban_ani](https://user-images.githubusercontent.com/32702872/36005602-b5d4ea7e-0d38-11e8-8600-faf37687e757.gif)
 
